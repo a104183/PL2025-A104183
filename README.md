@@ -1,5 +1,23 @@
-# PL2025-A104183
+![alt text](uminho.png) 
 
-![image](https://github.com/user-attachments/assets/14cfb259-0338-433e-bddc-378c71332677)
+LEI - Processamento de Linguagens 24/25
+Identificação
+| Nome                             | Número  |
+|----------------------------------|---------|
+| Diogo Alexandre Gomes Silva      | A104183 |
 
-Diogo Alexandre Gomes Silva a104183
+![alt text](https://github.com/user-attachments/assets/14cfb259-0338-433e-bddc-378c71332677)
+
+
+Informação
+Neste repositório serão adicionados todos os
+TPC de acordo com a sua semana e nas suas 
+respetivas pastas, denominadas por TPCx,
+onde x será o número da semana do TPC, ou seja,
+semana 1 -> TPC1, etc.
+
+
+
+
+Este ReadMe serve como identificação e ainda apresenta uma breve explicação
+do que será colocado no repositório.
