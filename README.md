@@ -1,4 +1,4 @@
-![alt text](![image](https://github.com/user-attachments/assets/c9877b93-6e07-434b-a804-7bef8d646822) 
+(![image](https://github.com/user-attachments/assets/c9877b93-6e07-434b-a804-7bef8d646822) 
 
 LEI - Processamento de Linguagens 24/25
 Identificação
