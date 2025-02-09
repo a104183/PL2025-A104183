@@ -42,18 +42,20 @@ O código lê um ficheiro chamado `input.txt` e processa-o linha por linha, apli
 ## 4. Exemplo de Entrada e Saída
 ### **Entrada (`input.txt`)**
 ```markdown
-123On45Off67On89=On
-123Off300=On2025-07-23Off45On67=
-12Off34On56=78=
+56On78Off90On12=Off
+34On67=Off123On89Off45On78=
+9Off21On43=65On87=Off
+100On200Off50On25=On
 ```
 
 ### **Saída Esperada**
 ```markdown
-257
+146
+213
 380
-2502
-2570
-2648
+432
+584
+809
 ```
 
 ## 5. Conclusão
