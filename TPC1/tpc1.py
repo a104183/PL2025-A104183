@@ -29,11 +29,10 @@ def processar_ficheiro(nome_ficheiro):
     except FileNotFoundError:
         print("Erro: O ficheiro não foi encontrado.")
 
-tente_novamente = True
-while tente_novamente:
-    nome_ficheiro = input("Insira o nome do ficheiro: ")
-    if nome_ficheiro.strip():
-        processar_ficheiro(nome_ficheiro)
-        tente_novamente = False
-    else:
-        print("Erro: O nome do ficheiro não pode estar vazio. Tente novamente.")
+
+nome_ficheiro = input("Insira o nome do ficheiro: ").strip()
+
+if nome_ficheiro:
+    processar_ficheiro(nome_ficheiro)
+else:
+    print("Erro: O nome do ficheiro não pode estar vazio.")
