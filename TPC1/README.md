@@ -4,7 +4,7 @@
 Este documento apresentará o funcionamento do meu código em Python que processa um ficheiro de texto, identificando e somando sequências de dígitos com base em três comandos de controlo (`on`, `off` e `=`). O objetivo é manter uma soma acumulada de todos os números encontrados, respeitando os comandos que podem surgir.
 
 ## 2. Funcionamento Geral
-O código lê um ficheiro chamado `input.txt` e processa-o linha por linha, aplicando as seguintes regras:
+O código lê um ficheiro escolhido pelo utilizador e processa-o linha por linha, aplicando as seguintes regras:
 
 1. **Números inteiros encontrados** são somados à soma total caso a soma esteja ativa.
 2. **O comando `on`** ativa a soma (pode ser On,ON,oN ou on).
@@ -16,7 +16,7 @@ O código lê um ficheiro chamado `input.txt` e processa-o linha por linha, apli
 
 ## 3. Explicação do Código
 ### 3.1 Leitura do Ficheiro
-- O ficheiro `input.txt` é aberto no modo de apenas leitura (`'r'`).
+- O ficheiro escolhido pelo utilizador é aberto no modo de apenas leitura (`'r'`).
 
 - O loop `for linha in ficheiro:` percorre o ficheiro linha por linha.
 

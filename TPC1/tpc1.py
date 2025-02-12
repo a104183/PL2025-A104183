@@ -1,9 +1,9 @@
-def processar_ficheiro():
+def processar_ficheiro(nome_ficheiro):
     soma = 0
     somar_ativo = True  
 
     try:
-        with open("input.txt", 'r') as ficheiro:
+        with open(nome_ficheiro, 'r') as ficheiro:
             for linha in ficheiro:
                 i = 0
                 while i < len(linha):
@@ -29,5 +29,11 @@ def processar_ficheiro():
     except FileNotFoundError:
         print("Erro: O ficheiro não foi encontrado.")
 
-# funçao para processar o ficheiro desejado
-processar_ficheiro()
+tente_novamente = True
+while tente_novamente:
+    nome_ficheiro = input("Insira o nome do ficheiro: ")
+    if nome_ficheiro.strip():
+        processar_ficheiro(nome_ficheiro)
+        tente_novamente = False
+    else:
+        print("Erro: O nome do ficheiro não pode estar vazio. Tente novamente.")
