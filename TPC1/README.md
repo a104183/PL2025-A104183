@@ -1,5 +1,13 @@
 # TPC1 - Relatório
 
+**Data:** 9 de Fevereiro de 2024  
+
+## Autor
+- **Nome:** Diogo Alexandre Gomes Silva
+- **Número:** 104183
+
+  ![Foto do Autor](../foto.png)
+
 ## 1. Introdução
 Este documento apresentará o funcionamento do meu código em Python que processa um ficheiro de texto, identificando e somando sequências de dígitos com base em três comandos de controlo (`on`, `off` e `=`). O objetivo é manter uma soma acumulada de todos os números encontrados, respeitando os comandos que podem surgir.
 

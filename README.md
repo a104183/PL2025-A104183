@@ -6,7 +6,7 @@
 |----------------------------------|---------|
 | Diogo Alexandre Gomes Silva      | A104183 |
 
-![alt text](https://github.com/user-attachments/assets/14cfb259-0338-433e-bddc-378c71332677)
+![Foto do Autor](foto.png)
 
 
 ## Informação
