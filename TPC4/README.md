@@ -1,4 +1,4 @@
-# TPC - Relatório Analisador Léxico 
+# TPC4 - Relatório Analisador Léxico 
 
 **Data:** 7 de Março de 2025  
 
