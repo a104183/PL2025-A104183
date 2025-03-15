@@ -1,0 +1,62 @@
+[
+    {
+        "cod": "A23",
+        "nome": "\u00c1gua 0.5L",
+        "quant": 8,
+        "preco": 0.7
+    },
+    {
+        "cod": "B45",
+        "nome": "Sumo Laranja",
+        "quant": 4,
+        "preco": 1.2
+    },
+    {
+        "cod": "C67",
+        "nome": "Batatas Fritas",
+        "quant": 9,
+        "preco": 1.5
+    },
+    {
+        "cod": "D89",
+        "nome": "Chocolate",
+        "quant": 2,
+        "preco": 1.0
+    },
+    {
+        "cod": "E12",
+        "nome": "Caf\u00e9",
+        "quant": 14,
+        "preco": 0.8
+    },
+    {
+        "cod": "F34",
+        "nome": "Ch\u00e1",
+        "quant": 10,
+        "preco": 0.9
+    },
+    {
+        "cod": "G56",
+        "nome": "Bolachas",
+        "quant": 7,
+        "preco": 1.3
+    },
+    {
+        "cod": "H78",
+        "nome": "Rebu\u00e7ados",
+        "quant": 12,
+        "preco": 0.5
+    },
+    {
+        "cod": "I90",
+        "nome": "Gomas",
+        "quant": 5,
+        "preco": 1.1
+    },
+    {
+        "cod": "J12",
+        "nome": "Pastilhas",
+        "quant": 14,
+        "preco": 0.4
+    }
+]
